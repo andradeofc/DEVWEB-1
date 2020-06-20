@@ -1,0 +1,53 @@
+{
+  "lista": [
+    {"id":1, "estabelecimentoId":1},
+    {"id":2, "estabelecimentoId":2},
+    {"id":3, "estabelecimentoId":3}
+  ],
+  "estabelecimentos":[
+    {
+      "id":1,
+      "nome": "Sempre Bella",
+      "localização": "",
+      "serviços": "",
+      "descrição":[
+      {"type":"text", "label":"Lorem ipsum dolor sit amet, id nec conceptam conclusionemque. Et eam tation option."}
+      ]
+    },
+    {
+      "id":2,
+      "nome": "Sempre Bella",
+      "localização": "",
+      "serviços": "",
+      "descrição":[
+        {"type":"text", "label":"Lorem ipsum dolor sit amet, id nec conceptam conclusionemque. Et eam tation option."}
+      ]
+    },
+    {
+      "id":3,
+      "nome": "Sempre Bella",
+      "localização": "",
+      "serviços": "",
+      "descrição":[
+        {"type":"text", "label":"Lorem ipsum dolor sit amet, id nec conceptam conclusionemque. Et eam tation option."}
+      ]
+    }
+  ],
+  
+  "projects": [
+    {
+      "name": "Estabelecimento 1",
+      "image": "",
+      "id": 41,
+      "local": "Aracati",
+      "tipo": "Clinica de Estetica"
+    },
+    {
+      "name": "Estabelecimento 2",
+      "image": "",
+      "id": 42,
+      "local": "Aracati",
+      "tipo": "Salão"
+    }
+  ]
+}
